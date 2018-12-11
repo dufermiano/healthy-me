@@ -1,8 +1,7 @@
-# Plualsight's Angular Crash Course
-
+Demo:
 Enter new weight on page, default to current date
 Highlight if they put in a past date
-XX Don’t allow future dates
+Don’t allow future dates
 Settings page
 Overview on home page - trend or something? Last 3 entries?
 
